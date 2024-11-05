@@ -1,11 +1,9 @@
 package main;
 
+;
+import gui.main.AthleteFormPanel;
 import gui.main.MainWindow;
 
 public class Main {
 	
-	public static void main(String[] args) {
-		MainWindow ventana = new MainWindow();
-	}
-
 }

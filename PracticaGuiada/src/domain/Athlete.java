@@ -9,8 +9,8 @@ public class Athlete {
 	/**
 	 * Enumeración para representar los géneros oficiales en las competiciones
 	 */
-	public enum Genre {
-		MALE, FEMALE;dfsdf
+	public enum Genre {sdfsdf
+		MALE, FEMALE;
 	}
 
 	private int code; // código único del atleta

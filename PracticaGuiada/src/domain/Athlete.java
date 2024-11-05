@@ -9,7 +9,7 @@ public class Athlete {
 	/**
 	 * Enumeración para representar los géneros oficiales en las competiciones
 	 */
-	public enum Genre {sdfsdf
+	public enum Genre {
 		MALE, FEMALE;
 	}
 
